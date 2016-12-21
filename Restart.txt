@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('[ShoppingCart]', RESEED, 0)
